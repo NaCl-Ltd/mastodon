@@ -1,4 +1,4 @@
-name: Build container release images
+name: Build container images for NaCl
 on:
   push:
     tags:
